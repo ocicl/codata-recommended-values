@@ -4,6 +4,6 @@ CODATA recommended values of physical constants for Common Lisp.
 
 |---------+-----------------------------------------------------------------------|
 | source  | git:https://github.com/ralph-schleicher/codata-recommended-values.git |
-| commit  | d776c44                                                               |
+| commit  | 19934db                                                               |
 | systems | codata-recommended-values                                             |
 |---------+-----------------------------------------------------------------------|
